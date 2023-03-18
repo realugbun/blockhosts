@@ -1,3 +1,4 @@
+## Goot loader command and control
 0.0.0.0 jonathanbartz.com
 0.0.0.0 jp.imonitorsoft.com
 0.0.0.0 junk-bros.com
@@ -5,3 +6,15 @@
 0.0.0.0 kepw.org
 0.0.0.0 kristinee.com
 0.0.0.0 lakeside-fishandchips.com
+
+## Cobalt Strike Beacon Backdoor
+0.0.0.0 108.61.242.65
+0.0.0.0 108.61.242.65
+0.0.0.0 146.70.78.43
+0.0.0.0 146.70.78.43
+0.0.0.0 87.120.254.39
+0.0.0.0 87.120.254.39
+0.0.0.0 45.150.108.213
+0.0.0.0 45.150.108.213
+0.0.0.0 92.204.160.240
+0.0.0.0 92.204.160.240
